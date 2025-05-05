@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Calboot&bg_color=000022&text_color=66ccff&title_color=f400ff)
-
-![](https://github-readme-stats.vercel.app/api?username=Calboot&bg_color=000022&text_color=66ccff&title_color=f400ff)
+Lazily coding...
 
 <!--
 **Calboot/Calboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
