@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-I'm a member of [AyakeCraft](https://github.com/AyakaCraft) and I'm currently a student.
-
-I'm interected in Minecraft and maintaining [Carpet Ayaka Addition](https://github.com/AyakaCraft/Carpet-Ayaka-Addition). I sometimes contribute to other open-source mods and libraries.
-
 <!--
 **Calboot/Calboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
